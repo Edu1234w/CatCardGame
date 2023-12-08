@@ -99,3 +99,7 @@ a:link, a:visited{
 a:hover, a:active{
     background-color: rgb(91, 13, 143);
 }
+
+#canvas{
+    background-color: black;
+}
